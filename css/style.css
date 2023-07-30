@@ -1462,7 +1462,7 @@ blockquote p {
 	text-align:left;
 	position:relative;
 }
-.home-main_title_item h2:before {
+/* .home-main_title_item h2:before {
     content: '';
     position: absolute;
     left: 0;
@@ -1470,7 +1470,7 @@ blockquote p {
     width: 50px;
     height: 1px;
     background: #fff;
-}
+} */
 .home-main_title_item h2 span{
 	display: inline-block;
 	font-size: 44px;
